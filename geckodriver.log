@@ -1,0 +1,146 @@
+1534321036500	geckodriver	INFO	geckodriver 0.21.0
+1534321036531	geckodriver	INFO	Listening on 127.0.0.1:58945
+1534321039541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\emily\\AppData\\Local\\Temp\\rust_mozprofile.wBkY0EdvjhhK"
+Unable to read VR Path Registry from C:\Users\emily\AppData\Local\openvr\openvrpaths.vrpath
+1534321040919	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\emily\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\emily\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\emily\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\emily\AppData\Local\openvr\openvrpaths.vrpath
+1534321042726	Marionette	INFO	Listening on port 58955
+1534321042854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534321042931	Marionette	DEBUG	Register listener.js for window 4294967297
+1534321042965	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1534321043584	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1534321043585	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1534321044195	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.indeed.nl/vacature-bekijken?jk=638eb3aa8de6ce6f&tk=1ckuai9su92om9j1&from=serp&alid=3&advn=6124692058421937"
+1534321044401	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.indeed.nl/vacature-bekijken?jk=638eb3aa8de6ce6f&tk=1ckuai9su92om9j1&from=serp&alid=3&advn=6124692058421937"
+[Parent 12788, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12788, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 146[C[GPU 10564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\emily\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\emily\AppData\Local\openvr\openvrpaths.vrpath
+1534321074909	Marionette	INFO	Listening on port 59005
+1534321075157	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534321075228	Marionette	DEBUG	Register listener.js for window 4294967297
+1534321075248	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1534321075862	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1534321075863	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1534321076327	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.indeed.nl/vacature-bekijken?jk=638eb3aa8de6ce6f&tk=1ckuaj9fr9nd6eeb&from=serp&alid=3&advn=6124692058421937"
+1534321076521	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.indeed.nl/vacature-bekijken?jk=638eb3aa8de6ce6f&tk=1ckuaj9fr9nd6eeb&from=serp&alid=3&advn=6124692058421937"
+[Parent 6864, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13960, Chrom[Child 15108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1510[GPU 8072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ath Registry from C:\Users\emily\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\emily\AppData\Local\openvr\openvrpaths.vrpath
+1534321132095	Marionette	INFO	Listening on port 59057
+1534321132126	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534321132212	Marionette	DEBUG	Register listener.js for window 4294967297
+1534321132265	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1534321132801	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1534321132802	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1534321133262	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.indeed.nl/vacature-bekijken?jk=638eb3aa8de6ce6f&tk=1ckual13h9nordo6&from=serp&alid=3&advn=6124692058421937"
+1534321133439	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.indeed.nl/vacature-bekijken?jk=638eb3aa8de6ce6f&tk=1ckual13h9nordo6&from=serp&alid=3&advn=6124692058421937"
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 25: : 
+1534321134854	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.indeed.nl/vacature-bekijken?jk=638eb3aa8de6ce6f&tk=1ckual13h9nordo6&from=serp&alid=3&advn=6124692058421937"
+1534321135335	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.indeed.nl/vacature-bekijken?jk=638eb3aa8de6ce6f&tk=1ckual13h9nordo6&from=serp&alid=3&advn=6124692058421937"
+1534321135336	Marionette	DEBUG	Received DOM event "unload" for "https://www.indeed.nl/vacature-bekijken?jk=638eb3aa8de6ce6f&tk=1ckual13h9nordo6&from=serp&alid=3&advn=6124692058421937"
+1534321135634	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1534321135635	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.indeed.nl/vacature-bekijken?jk=209af06ed43c644b&tk=1ckual3df9nor99h&from=serp&alid=3&advn=2421485629829485"
+1534321135772	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.indeed.nl/vacature-bekijken?jk=209af06ed43c644b&tk=1ckual3df9nor99h&from=serp&alid=3&advn=2421485629829485"
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 25: : 
+1534321137117	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.indeed.nl/vacature-bekijken?jk=209af06ed43c644b&tk=1ckual3df9nor99h&from=serp&alid=3&advn=2421485629829485"
+1534321137431	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.indeed.nl/vacature-bekijken?jk=209af06ed43c644b&tk=1ckual3df9nor99h&from=serp&alid=3&advn=2421485629829485"
+1534321137432	Marionette	DEBUG	Received DOM event "unload" for "https://www.indeed.nl/vacature-bekijken?jk=209af06ed43c644b&tk=1ckual3df9nor99h&from=serp&alid=3&advn=2421485629829485"
+1534321137771	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1534321137772	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.indeed.nl/vacature-bekijken?jk=7593cc50f485ec4f&tk=1ckual5k99norbur&from=serp&alid=3&advn=2421485629829485"
+1534321137937	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.indeed.nl/vacature-bekijken?jk=7593cc50f485ec4f&tk=1ckual5k99norbur&from=serp&alid=3&advn=2421485629829485"
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 25: : 
+1534321139263	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.indeed.nl/vacature-bekijken?jk=7593cc50f485ec4f&tk=1ckual5k99norbur&from=serp&alid=3&advn=2421485629829485"
+1534321139623	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.indeed.nl/vacature-bekijken?jk=7593cc50f485ec4f&tk=1ckual5k99norbur&from=serp&alid=3&advn=2421485629829485"
+1534321139624	Marionette	DEBUG	Received DOM event "unload" for "https://www.indeed.nl/vacature-bekijken?jk=7593cc50f485ec4f&tk=1ckual5k99norbur&from=serp&alid=3&advn=2421485629829485"
+1534321139842	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1534321139998	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.indeed.nl/vacature-bekijken?jk=24115a299a2e1531&tk=1ckual7n49norem0&from=serp&alid=3&advn=8245509577778884"
+1534321140151	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.indeed.nl/vacature-bekijken?jk=24115a299a2e1531&tk=1ckual7n49norem0&from=serp&alid=3&advn=8245509577778884"
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 25: : 
+1534321141347	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.indeed.nl/vacature-bekijken?jk=24115a299a2e1531&tk=1ckual7n49norem0&from=serp&alid=3&advn=8245509577778884"
+1534321141709	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.indeed.nl/vacature-bekijken?jk=24115a299a2e1531&tk=1ckual7n49norem0&from=serp&alid=3&advn=8245509577778884"
+1534321141709	Marionette	DEBUG	Received DOM event "unload" for "https://www.indeed.nl/vacature-bekijken?jk=24115a299a2e1531&tk=1ckual7n49norem0&from=serp&alid=3&advn=8245509577778884"
+1534321141896	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1534321142231	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.indeed.nl/vacature-bekijken?jk=06b8129ce00d51e0&from=serp&vjs=3"
+1534321142448	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.indeed.nl/vacature-bekijken?jk=06b8129ce00d51e0&from=serp&vjs=3"
+1534321144643	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.indeed.nl/vacature-bekijken?jk=06b8129ce00d51e0&from=serp&vjs=3"
+1534321144965	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.indeed.nl/vacature-bekijken?jk=06b8129ce00d51e0&from=serp&vjs=3"
+1534321144966	Marionette	DEBUG	Received DOM event "unload" for "https://www.indeed.nl/vacature-bekijken?jk=06b8129ce00d51e0&from=serp&vjs=3"
+1534321145255	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.indeed.nl/vacature-bekijken?jk=6f4023c70f7edeb2&from=serp&vjs=3"
+1534321145588	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.indeed.nl/vacature-bekijken?jk=6f4023c70f7edeb2&from=serp&vjs=3"
+1534321147421	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.indeed.nl/vacature-bekijken?jk=6f4023c70f7edeb2&from=serp&vjs=3"
+1534321147671	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.indeed.nl/vacature-bekijken?jk=6f4023c70f7edeb2&from=serp&vjs=3"
+1534321147672	Marionette	DEBUG	Received DOM event "unload" for "https://www.indeed.nl/vacature-bekijken?jk=6f4023c70f7edeb2&from=serp&vjs=3"
+1534321147978	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.indeed.nl/vacature-bekijken?jk=ee47624aa5b18954&from=serp&vjs=3"
+1534321148405	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.indeed.nl/vacature-bekijken?jk=ee47624aa5b18954&from=serp&vjs=3"
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 25: : 
+1534321149909	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.indeed.nl/vacature-bekijken?jk=ee47624aa5b18954&from=serp&vjs=3"
+1534321150247	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.indeed.nl/vacature-bekijken?jk=ee47624aa5b18954&from=serp&vjs=3"
+1534321150248	Marionette	DEBUG	Received DOM event "unload" for "https://www.indeed.nl/vacature-bekijken?jk=ee47624aa5b18954&from=serp&vjs=3"
+1534321150425	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1534321150661	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.indeed.nl/vacature-bekijken?jk=69e2493bfb1ad195&from=serp&vjs=3"
+1534321150860	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.indeed.nl/vacature-bekijken?jk=69e2493bfb1ad195&from=serp&vjs=3"
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 25: : 
+1534321152811	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.indeed.nl/vacature-bekijken?jk=69e2493bfb1ad195&from=serp&vjs=3"
+1534321153138	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.indeed.nl/vacature-bekijken?jk=69e2493bfb1ad195&from=serp&vjs=3"
+1534321153138	Marionette	DEBUG	Received DOM event "unload" for "https://www.indeed.nl/vacature-bekijken?jk=69e2493bfb1ad195&from=serp&vjs=3"
+1534321153231	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1534321153490	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.indeed.nl/vacature-bekijken?jk=e0771b58557a838a&from=serp&vjs=3"
+1534321153665	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.indeed.nl/vacature-bekijken?jk=e0771b58557a838a&from=serp&vjs=3"
+1534321155673	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.indeed.nl/vacature-bekijken?jk=e0771b58557a838a&from=serp&vjs=3"
+1534321156087	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.indeed.nl/vacature-bekijken?jk=e0771b58557a838a&from=serp&vjs=3"
+1534321156088	Marionette	DEBUG	Received DOM event "unload" for "https://www.indeed.nl/vacature-bekijken?jk=e0771b58557a838a&from=serp&vjs=3"
+1534321156491	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.indeed.nl/vacature-bekijken?jk=39a4a955833d121d&from=serp&vjs=3"
+1534321156673	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.indeed.nl/vacature-bekijken?jk=39a4a955833d121d&from=serp&vjs=3"
+1534321157836	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.indeed.nl/vacature-bekijken?jk=39a4a955833d121d&from=serp&vjs=3"
+1534321158130	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.indeed.nl/vacature-bekijken?jk=39a4a955833d121d&from=serp&vjs=3"
+1534321158131	Marionette	DEBUG	Received DOM event "unload" for "https://www.indeed.nl/vacature-bekijken?jk=39a4a955833d121d&from=serp&vjs=3"
+1534321158593	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.indeed.nl/vacature-bekijken?jk=42d833f3b8b88de1&from=serp&vjs=3"
+1534321158870	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.indeed.nl/vacature-bekijken?jk=42d833f3b8b88de1&from=serp&vjs=3"
+1534321160299	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.indeed.nl/vacature-bekijken?jk=42d833f3b8b88de1&from=serp&vjs=3"
+1534321160532	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.indeed.nl/vacature-bekijken?jk=42d833f3b8b88de1&from=serp&vjs=3"
+1534321160533	Marionette	DEBUG	Received DOM event "unload" for "https://www.indeed.nl/vacature-bekijken?jk=42d833f3b8b88de1&from=serp&vjs=3"
+1534321160848	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.indeed.nl/vacature-bekijken?jk=4b20794365970d75&from=serp&vjs=3"
+1534321161009	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.indeed.nl/vacature-bekijken?jk=4b20794365970d75&from=serp&vjs=3"
+1534321162246	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.indeed.nl/vacature-bekijken?jk=4b20794365970d75&from=serp&vjs=3"
+1534321162590	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.indeed.nl/vacature-bekijken?jk=4b20794365970d75&from=serp&vjs=3"
+1534321162591	Marionette	DEBUG	Received DOM event "unload" for "https://www.indeed.nl/vacature-bekijken?jk=4b20794365970d75&from=serp&vjs=3"
+1534321163140	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.indeed.nl/vacature-bekijken?jk=f4d29a2daf1cc2f2&from=serp&vjs=3"
+1534321163475	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.indeed.nl/vacature-bekijken?jk=f4d29a2daf1cc2f2&from=serp&vjs=3"
+1534321165637	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.indeed.nl/vacature-bekijken?jk=f4d29a2daf1cc2f2&from=serp&vjs=3"
+1534321165892	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.indeed.nl/vacature-bekijken?jk=f4d29a2daf1cc2f2&from=serp&vjs=3"
+1534321165892	Marionette	DEBUG	Received DOM event "unload" for "https://www.indeed.nl/vacature-bekijken?jk=f4d29a2daf1cc2f2&from=serp&vjs=3"
+1534321166205	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.indeed.nl/vacature-bekijken?jk=7388e98473ad2585&from=serp&vjs=3"
+1534321166370	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.indeed.nl/vacature-bekijken?jk=7388e98473ad2585&from=serp&vjs=3"
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 25: : 
+1534321167526	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.indeed.nl/vacature-bekijken?jk=7388e98473ad2585&from=serp&vjs=3"
+1534321167813	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.indeed.nl/vacature-bekijken?jk=7388e98473ad2585&from=serp&vjs=3"
+1534321167813	Marionette	DEBUG	Received DOM event "unload" for "https://www.indeed.nl/vacature-bekijken?jk=7388e98473ad2585&from=serp&vjs=3"
+1534321167981	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1534321168200	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.indeed.nl/vacature-bekijken?jk=9a8fdc01f707b1fe&tk=1ckuam39t9norb0b&from=serp&alid=3&advn=713903982049763"
+1534321168389	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.indeed.nl/vacature-bekijken?jk=9a8fdc01f707b1fe&tk=1ckuam39t9norb0b&from=serp&alid=3&advn=713903982049763"
+1534321170080	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.indeed.nl/vacature-bekijken?jk=9a8fdc01f707b1fe&tk=1ckuam39t9norb0b&from=serp&alid=3&advn=713903982049763"
+1534321170392	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.indeed.nl/vacature-bekijken?jk=9a8fdc01f707b1fe&tk=1ckuam39t9norb0b&from=serp&alid=3&advn=713903982049763"
+1534321170393	Marionette	DEBUG	Received DOM event "unload" for "https://www.indeed.nl/vacature-bekijken?jk=9a8fdc01f707b1fe&tk=1ckuam39t9norb0b&from=serp&alid=3&advn=713903982049763"
+1534321171002	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.indeed.nl/vacature-bekijken?jk=0a8fa72b3f5e0492&tk=1ckuam5q49nor9io&from=serp&alid=3&advn=2180790811884654"
+1534321171248	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.indeed.nl/vacature-bekijken?jk=0a8fa72b3f5e0492&tk=1ckuam5q49nor9io&from=serp&alid=3&advn=2180790811884654"
+[Parent 6468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
